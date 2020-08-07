@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1596759835 source:c:\users\owsla\desktop\betabee\recu.labo1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Objeto.h"
+	"parser.h"
+
+1596156201 c:\users\owsla\desktop\betabee\recu.labo1\linkedlist.h
+
+1596759835 c:\users\owsla\desktop\betabee\recu.labo1\objeto.h
+
+1596156201 c:\users\owsla\desktop\betabee\recu.labo1\parser.h
+
+1596760222 source:c:\users\owsla\desktop\betabee\recu.labo1\funcion_abm.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"Objeto.h"
+	"Controller.h"
+	"Informes.h"
+
+1596156201 c:\users\owsla\desktop\betabee\recu.labo1\utn.h
+
+1596156201 c:\users\owsla\desktop\betabee\recu.labo1\controller.h
+	"LinkedList.h"
+
+1596757262 c:\users\owsla\desktop\betabee\recu.labo1\informes.h
+
+1596759835 source:c:\users\owsla\desktop\betabee\recu.labo1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"Objeto.h"
+	"LinkedList.h"
+
+1596156201 source:c:\users\owsla\desktop\betabee\recu.labo1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596757262 source:c:\users\owsla\desktop\betabee\recu.labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcion_abm.h"
+
+1596757262 c:\users\owsla\desktop\betabee\recu.labo1\funcion_abm.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596759835 source:c:\users\owsla\desktop\betabee\recu.labo1\objeto.c
+	<stdio.h>
+	"Objeto.h"
+	<stdlib.h>
+	<string.h>
+
+1596759835 source:c:\users\owsla\desktop\betabee\recu.labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Objeto.h"
+
+1596156201 source:c:\users\owsla\desktop\betabee\recu.labo1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
